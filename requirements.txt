@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+datetime
+request
+matplotlib
+seaborn
+scikit-learn
